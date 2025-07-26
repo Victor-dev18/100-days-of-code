@@ -16,7 +16,7 @@ I'm Victor (@CodeWithVictor), and this repo is where I’ll document my daily co
 | Day | Progress |
 |-----|----------|
 | 1   | Built Mad Libs, Calculator, and Weight Converter in Python |
-| 2   | *Coming soon...* |
+| 2   | Roller Coaster Ticketing, Treasure Hunt logic, Rock-Paper-Scissors using conditionals, lists, and random |
 | 3   | *Coming soon...* |
 
 > I’ll update this table every day to reflect my journey.
@@ -33,6 +33,7 @@ I'm Victor (@CodeWithVictor), and this repo is where I’ll document my daily co
 ## 🌟 Inspired by
 The [#100DaysOfCode](https://www.100daysofcode.com/) challenge by @ka11away.  
 Let’s learn, build, and grow in public!
+Let's go from "Hello, World" to "Hire me, please." 🚀
 
 
 
