@@ -32,7 +32,7 @@ I'm Victor (@CodeWithVictor), and this repo is where I’ll document my daily co
 
 ## 🌟 Inspired by
 The [#100DaysOfCode](https://www.100daysofcode.com/) challenge by @ka11away.  
-Let’s learn, build, and grow in public! \n
+Let’s learn, build, and grow in public! 
 Let's go from "Hello, World" to "Hire me, please." 🚀
 
 
